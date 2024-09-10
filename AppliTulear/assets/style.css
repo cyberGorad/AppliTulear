@@ -112,13 +112,12 @@ footer {
     bottom: 0;
     left: 0;
     width: 100%;
-    background: #333;
+
     color: #fff;
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 0.5rem 0;
-    border-top: 1px solid #444;
 }
 
 .bottom-nav a {
@@ -148,6 +147,8 @@ footer {
     font-size: 12px;
 }
 
+
+
 /* Responsive */
 @media (max-width: 768px) {
     header .container {
@@ -169,3 +170,8 @@ footer {
         flex-direction: row;
     }
 }
+
+
+
+
+
